@@ -1,0 +1,22 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ITMO_124_16_ADO.NET_IvanovVA_MyDBApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ITMO_124_16_ADO_NET_IvanovVA_MyDBAppConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\ITMO_124-16_ADO.NET_IvanovVA_MyDBApp.mdf;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\ITMO_124-16_ADO.NET_IvanovVA_MyDBApp.mdf;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="ConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Provider=SQLNCLIRDA11;Data Source=(LocalDB)\MSSQLLocalDB;Password=1111;User ID=Admin;Initial Catalog="C:\USERS\VLADI\ONEDRIVE\РАБОЧИЙ СТОЛ\ADO.NET\ITMO_124-16_ADO.NET_IVANOVVA_MYDBAPP\ITMO_124-16_ADO.NET_IVANOVVA_MYDBAPP.MDF"&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.OleDb&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Provider=SQLNCLIRDA11;Data Source=(LocalDB)\MSSQLLocalDB;Password=1111;User ID=Admin;Initial Catalog="C:\USERS\VLADI\ONEDRIVE\РАБОЧИЙ СТОЛ\ADO.NET\ITMO_124-16_ADO.NET_IVANOVVA_MYDBAPP\ITMO_124-16_ADO.NET_IVANOVVA_MYDBAPP.MDF"</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
